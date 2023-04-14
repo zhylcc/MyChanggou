@@ -20,7 +20,6 @@
         <module name="changgou_service_order" />
         <module name="changgou_service_goods_api" />
         <module name="changgou_gateway_system" />
-        <module name="changgou_web" />
         <module name="changgou_service_search" />
         <module name="changgou_canal" />
         <module name="changgou_service_goods" />
@@ -31,6 +30,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="changgou_search" target="1.8" />
+      <module name="changgou_web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
